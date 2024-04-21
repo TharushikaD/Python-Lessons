@@ -23,3 +23,5 @@ print(f"White {y}")
 
 b = 0.0
 print(type(b))
+
+print("Configure git")
